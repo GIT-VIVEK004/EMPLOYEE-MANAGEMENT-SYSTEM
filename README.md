@@ -1,3 +1,11 @@
+
+![Screenshot 2025-05-16 084002](https://github.com/user-attachments/assets/b53f2c58-759f-487d-8c03-082cf50dd0c3)
+
+![Screenshot 2025-05-16 083947](https://github.com/user-attachments/assets/2761b1ec-23c9-47d4-8eb4-ce06a6a98c51)
+
+![Screenshot 2025-05-16 084019](https://github.com/user-attachments/assets/001359a3-d730-4cb2-9e0e-793c128f3f99)
+
+
 1. Project Name: Task Management System (Admin & Employee Portal)
 
 2. Tech Stack: Built with React.js, HTML, Tailwind CSS, and CSS for a fast, responsive, and modern user experience.
